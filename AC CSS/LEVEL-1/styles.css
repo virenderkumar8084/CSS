@@ -1,0 +1,22 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+#ipe {
+    display: inline;
+}
+#small {
+    width: 6px;
+    height: 6px;
+}
+div {
+    margin: 2px;
+    padding-left: 5px;
+    height: 200px;
+    width: 300px;
+    border: 2px solid;
+    
+    /* display: flex;
+    align-items: center; */
+}
